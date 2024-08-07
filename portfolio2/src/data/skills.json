@@ -1,30 +1,26 @@
 [
   {
-    "title": "HTML",
-    "imageSrc": "skills/html.png"
+    "title": "CAD",
+    "imageSrc": "skills/autocad.png"
   },
   {
-    "title": "CSS",
-    "imageSrc": "skills/css.png"
+    "title": "Photoshop",
+    "imageSrc": "skills/photo.png"
   },
   {
-    "title": "React",
-    "imageSrc": "skills/react.png"
+    "title": "Blender",
+    "imageSrc": "skills/blender.png"
   },
   {
-    "title": "Node",
-    "imageSrc": "skills/node.png"
+    "title": "MSOffice",
+    "imageSrc": "skills/mso.png"
   },
   {
-    "title": "GraphQL",
-    "imageSrc": "skills/graphql.png"
+    "title": "Lumion",
+    "imageSrc": "skills/lumion.png"
   },
   {
-    "title": "MongoDB",
-    "imageSrc": "skills/mongodb.png"
-  },
-  {
-    "title": "Figma",
-    "imageSrc": "skills/figma.png"
+    "title": "SketchUp",
+    "imageSrc": "skills/sketchup.png"
   }
 ]

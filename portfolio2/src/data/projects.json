@@ -2,24 +2,24 @@
   {
     "title": "Project A",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
+    "description": "This is a project made to learn the latest creative designs.",
+    "skills": ["CAD", "Sketchup", "Lumion"],
     "demo": "https://www.example.com",
     "source": "https://www.github.com"
   },
   {
-    "title": "Project B",
+    "title": "Project A",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
+    "description": "This is a project made to learn the latest creative designs.",
+    "skills": ["CAD", "Sketchup", "Lumion"],
     "demo": "https://www.example.com",
     "source": "https://www.github.com"
   },
   {
-    "title": "Project C",
+    "title": "Project A",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
+    "description": "This is a project made to learn the latest creative designs.",
+    "skills": ["CAD", "Sketchup", "Lumion"],
     "demo": "https://www.example.com",
     "source": "https://www.github.com"
   }
