@@ -8,7 +8,7 @@ export const Hero = () => {
 
   const [data, setData] = useState([]);
   useEffect(() => {
-        fetch('/api/list')
+        fetch('https://anumolapi.modelflick.com/list/')
             .then(response => {
                 if (!response.ok) {
                     throw new Error('Network response was not ok');
